@@ -97,5 +97,3 @@ var n,a=t("./lib/build-log"),i=t("./lib/epsilon"),o=t("./lib/intersecter"),s=t("
                 
             </script>
         </div>
-</body>
-</html>
