@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: "Mi bones"
-description: "Bones es una serie"
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+title: "Mi sitio de posts chulos"
+description: "Aquí hay proyectos que merecen la pena"
+logo: bio-photo.jpg
+teaser: python2.jpg
 locale: en
-url: https://fcojaviermelo.github.io/bones/
+url: https://sonimik13.github.io/bones/
 feed:
   path: atom.xml
 
