@@ -1,0 +1,9 @@
+# Site navigation links
+
+- title: PortFolio
+  url: /portfolio/
+  image: bio-photo.jpg
+- title: GitHub
+  url: https://github.com/sonimik13
+- title: About
+  url: /about/
